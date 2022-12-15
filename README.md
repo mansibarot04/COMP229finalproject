@@ -9,8 +9,7 @@
 
 # ![Note Zipper](https://github.com/mansibarot04/COMP229finalproject)
 
-## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
-![MERN 1](https://user-images.githubusercontent.com/51760520/124705210-ea67ab00-df12-11eb-88cd-e9060c2942b9.png)
+
 
 
 
